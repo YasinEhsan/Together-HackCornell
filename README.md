@@ -3,7 +3,7 @@
 **Overview**
 - My 13th Hackathon. Amongst my prevoius hacks, this was the most competitive with 63+ Devpost submissions. 
 - I led all efforts on Firebase backend to talk between the client and kiosk iOS apps we built. 
-- [My Final Demo (Youtube)](https://www.youtube.com/watch?v=vZXprBz4NVY)
+- [IBM's Blog about our NGO Solution](https://developer.ibm.com/code-and-response/blogs/students-code-to-save-communities-at-bigred-hacks-2019/)
 **About:** Connects users with NGO's to create an accessible and collaborative way to help make a difference in the community
 
 **Built With:** Swift, Xcode, Zeplin, Google Cloud using MVC Software Pattern, IBM Watson Image Recognition, IBM Watson Assistant, and Kubernetes (IBM and Google Cloud)
