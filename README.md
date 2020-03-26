@@ -1,5 +1,9 @@
 # Together
 
+**Overview**
+- This was my 13th Hackathon. Amongst my prevoius hackathons, this was the most competitive with 63+ Devpost submissions. 
+- I led all efforts on Firebase backend to talk between the client and kiosk iOS apps we built. 
+- [My Final Demo (Youtube)](https://www.youtube.com/watch?v=vZXprBz4NVY)
 **About:** Connects users with NGO's to create an accessible and collaborative way to help make a difference in the community
 
 **Built With:** Swift, Xcode, Zeplin, Google Cloud using MVC Software Pattern, IBM Watson Image Recognition, IBM Watson Assistant, and Kubernetes (IBM and Google Cloud)
